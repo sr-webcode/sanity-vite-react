@@ -51,6 +51,7 @@ const HomePage = () => {
             imageSource={data?.mainImage.asset.url}
         />
     )
+    return <Box />
 
 }
 
